@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://discord.com/channels/@me",
+      "displayName": "Discord",
+      "icon": "message-circle",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
